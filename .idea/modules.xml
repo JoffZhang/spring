@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka/cloud-eureka-computeservice/cloud-eureka-computeservice.iml" filepath="$PROJECT_DIR$/eureka/cloud-eureka-computeservice/cloud-eureka-computeservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon_feign/cloud-eureka-feign/cloud-eureka-feign.iml" filepath="$PROJECT_DIR$/ribbon_feign/cloud-eureka-feign/cloud-eureka-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon_feign/cloud-eureka-ribbon/cloud-eureka-ribbon.iml" filepath="$PROJECT_DIR$/ribbon_feign/cloud-eureka-ribbon/cloud-eureka-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/cloud-eureka-server/cloud-eureka-server.iml" filepath="$PROJECT_DIR$/eureka/cloud-eureka-server/cloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix/cloud-hystrix-eureka-feign/cloud-hystrix-eureka-feign.iml" filepath="$PROJECT_DIR$/hystrix/cloud-hystrix-eureka-feign/cloud-hystrix-eureka-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix/cloud-hystrix-eureka-ribbon/cloud-hystrix-eureka-ribbon.iml" filepath="$PROJECT_DIR$/hystrix/cloud-hystrix-eureka-ribbon/cloud-hystrix-eureka-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring.iml" filepath="$PROJECT_DIR$/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/springboot-demo/springboot-demo.iml" filepath="$PROJECT_DIR$/springboot/springboot-demo/springboot-demo.iml" />
+    </modules>
+  </component>
+</project>
