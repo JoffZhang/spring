@@ -16,6 +16,7 @@
 
         <module>hystrix/cloud-hystrix-eureka-ribbon</module>
         <module>hystrix/cloud-hystrix-eureka-feign</module>
+        <module>config/cloud-config-server</module>
 
 
     </modules>

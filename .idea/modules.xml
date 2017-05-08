@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/config/cloud-config-server/cloud-config-server.iml" filepath="$PROJECT_DIR$/config/cloud-config-server/cloud-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka/cloud-eureka-computeservice/cloud-eureka-computeservice.iml" filepath="$PROJECT_DIR$/eureka/cloud-eureka-computeservice/cloud-eureka-computeservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/ribbon_feign/cloud-eureka-feign/cloud-eureka-feign.iml" filepath="$PROJECT_DIR$/ribbon_feign/cloud-eureka-feign/cloud-eureka-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/ribbon_feign/cloud-eureka-ribbon/cloud-eureka-ribbon.iml" filepath="$PROJECT_DIR$/ribbon_feign/cloud-eureka-ribbon/cloud-eureka-ribbon.iml" />

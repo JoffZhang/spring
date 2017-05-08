@@ -22,6 +22,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="cloud-config-server" />
         <module name="cloud-eureka-computeservice" />
         <module name="cloud-eureka-feign" />
         <module name="cloud-eureka-ribbon" />
@@ -34,6 +35,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cloud-config-repo" target="1.5" />
+      <module name="cloud-config-server" target="1.5" />
       <module name="cloud-eureka-computeservice" target="1.5" />
       <module name="cloud-eureka-computeservice1" target="1.5" />
       <module name="cloud-eureka-feign" target="1.5" />
