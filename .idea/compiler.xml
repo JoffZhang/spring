@@ -33,11 +33,12 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="cloud-config-repo" target="1.5" />
       <module name="cloud-eureka-computeservice" target="1.5" />
       <module name="cloud-eureka-computeservice1" target="1.5" />
       <module name="cloud-eureka-feign" target="1.5" />
-      <module name="cloud-eureka-ribbon" target="1.5" />
       <module name="Cloud-eureka-ribbon" target="1.5" />
+      <module name="cloud-eureka-ribbon" target="1.5" />
       <module name="cloud-eureka-server" target="1.5" />
       <module name="cloud-eureka-service-server" target="1.5" />
       <module name="cloud-hystrix-eureka-feign" target="1.5" />

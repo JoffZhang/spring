@@ -16,6 +16,8 @@
 
         <module>hystrix/cloud-hystrix-eureka-ribbon</module>
         <module>hystrix/cloud-hystrix-eureka-feign</module>
+
+
     </modules>
     <name>spring Maven Webapp</name>
     <url>http://maven.apache.org</url>
