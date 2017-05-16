@@ -2,14 +2,25 @@
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config/cloud-config-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config/cloud-config-repo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config/cloud-config-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka/cloud-eureka-computeservice" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka/cloud-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/high_availability_service_registry/compute-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/high_availability_service_registry/ha-eureka-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hystrix/cloud-hystrix-eureka-feign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hystrix/cloud-hystrix-eureka-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/message-bus/config-client-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/message-bus/config-client-eureka-kafka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/message-bus/config-server-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/message-bus/config-server-eureka-kafka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ribbon_feign/cloud-eureka-feign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ribbon_feign/cloud-eureka-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_gateway/api-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_gateway/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_gateway/service-A" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_gateway/service-B" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot/springboot-demo" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>

@@ -22,6 +22,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="api-gateway" />
+        <module name="cloud-config-client" />
         <module name="cloud-config-server" />
         <module name="cloud-eureka-computeservice" />
         <module name="cloud-eureka-feign" />
@@ -30,10 +32,21 @@
         <module name="cloud-eureka-server" />
         <module name="cloud-hystrix-eureka-feign" />
         <module name="cloud-hystrix-eureka-ribbon" />
+        <module name="compute-service" />
+        <module name="config-client-eureka" />
+        <module name="config-client-eureka-kafka" />
+        <module name="config-server-eureka" />
+        <module name="config-server-eureka-kafka" />
+        <module name="eureka-server" />
+        <module name="ha-eureka-server" />
+        <module name="service-A" />
+        <module name="service-B" />
         <module name="springboot-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="api-gateway" target="1.5" />
+      <module name="cloud-config-client" target="1.5" />
       <module name="cloud-config-repo" target="1.5" />
       <module name="cloud-config-server" target="1.5" />
       <module name="cloud-eureka-computeservice" target="1.5" />
@@ -45,6 +58,15 @@
       <module name="cloud-eureka-service-server" target="1.5" />
       <module name="cloud-hystrix-eureka-feign" target="1.5" />
       <module name="cloud-hystrix-eureka-ribbon" target="1.5" />
+      <module name="compute-service" target="1.5" />
+      <module name="config-client-eureka" target="1.5" />
+      <module name="config-client-eureka-kafka" target="1.5" />
+      <module name="config-server-eureka" target="1.5" />
+      <module name="config-server-eureka-kafka" target="1.5" />
+      <module name="eureka-server" target="1.5" />
+      <module name="ha-eureka-server" target="1.5" />
+      <module name="service-A" target="1.5" />
+      <module name="service-B" target="1.5" />
       <module name="spring" target="1.5" />
       <module name="springboot-demo" target="1.5" />
       <module name="test" target="1.5" />

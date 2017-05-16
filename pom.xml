@@ -17,6 +17,17 @@
         <module>hystrix/cloud-hystrix-eureka-ribbon</module>
         <module>hystrix/cloud-hystrix-eureka-feign</module>
         <module>config/cloud-config-server</module>
+        <module>config/cloud-config-client</module>
+        <module>service_gateway/service-A</module>
+        <module>service_gateway/service-B</module>
+        <module>service_gateway/eureka-server</module>
+        <module>service_gateway/api-gateway</module>
+        <module>high_availability_service_registry/compute-service</module>
+        <module>high_availability_service_registry/ha-eureka-server</module>
+        <module>message-bus/config-server-eureka</module>
+        <module>message-bus/config-client-eureka</module>
+        <module>message-bus/config-server-eureka-kafka</module>
+        <module>message-bus/config-client-eureka-kafka</module>
 
 
     </modules>
@@ -50,7 +61,7 @@
             <dependency>
                 <groupId>org.springframework.cloud</groupId>
                 <artifactId>spring-cloud-dependencies</artifactId>
-                <version>Camden.SR6</version>
+                <version>Dalston.RELEASE</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
